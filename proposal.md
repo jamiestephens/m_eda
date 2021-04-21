@@ -10,10 +10,10 @@ Real estate developers, or anyone interested in acquiring property in NYC.
 
 ### What dataset(s) do you plan to use, and how will you obtain the data?
 
-MTA Turnstile Data, collected in 4 hour increments - estimated to be 95,761,349 rows
-http://web.mta.info/developers/turnstile.html
-Detailed Annual Sales Reports by Borough - estimated to equal ~89 M
-https://www1.nyc.gov/site/finance/taxes/property-annualized-sales-update.page
+MTA Turnstile Data, collected in 4 hour increments - estimated to be 95,761,349 rows  
+http://web.mta.info/developers/turnstile.html  
+Detailed Annual Sales Reports by Borough - estimated to equal ~89 M  
+https://www1.nyc.gov/site/finance/taxes/property-annualized-sales-update.page  
     
 I plan to collect the data using BeautifulSoup and collate it into Vaex-powered DataFrames.
 
