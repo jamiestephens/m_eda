@@ -1,3 +1,5 @@
+## Metis Project I: Exploratory Data Analysis
+
 ### What is the framing question of your analysis, or the purpose of the model/system you plan to build?
             
 What relationships exist between foot traffic trends of NYC’s subway stations, and trends in sale prices for properties closest to those subway stations, between May 05, 2010 and December 31, 2019? 
