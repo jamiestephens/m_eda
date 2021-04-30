@@ -27,8 +27,10 @@ The Manhattan property market is known to be volatile and high-value, and unders
 * Converted datasets from daily values to monthly aggregated datasets
 
 *Analysis*
-Correlation coefficient: calculated using NumPy; formula available below
-![image](https://user-images.githubusercontent.com/71529189/116650659-a58e2980-a94f-11eb-972e-8d816290432e.png)
+* Correlation coefficient: calculated using NumPy; formula available below
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+
 Total property sale count correlation: -0.29
 Residential property sale count correlation: -0.28
 
