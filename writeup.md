@@ -1,4 +1,4 @@
-# MTA Turnstile and Property Sales Trends in the Upper West Side, 2015-2019
+# MTA Turnstile and Property Sales Trends in the Upper West Side
 Jamie Stephens
 
 ## Abstract
