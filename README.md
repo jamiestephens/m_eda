@@ -1,2 +1,1 @@
-# meda
-Metis Project I: Exploratory Data Analysis
+# Metis Project I: Exploratory Data Analysis
